@@ -7,6 +7,7 @@ require('p.telescope')
 require('p.nvim-tree')
 require('p.lsp')
 require("p.rust-tool")
+require("p.bufferline")
 require("dt.maps")
 
 
