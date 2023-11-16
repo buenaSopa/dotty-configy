@@ -24,7 +24,7 @@ o.scrolloff = 8
 
 -- Better editor UI
 o.number = true
-o.numberwidth = 4
+o.numberwidth = 2
 o.relativenumber = true
 -- o.signcolumn = "yes"
 o.cursorline = true
@@ -36,8 +36,8 @@ o.cursorline = true
 o.autoindent = true
 o.wrap = true
 o.textwidth = 300
-o.tabstop = 4
-o.shiftwidth = 4
+o.tabstop = 2
+o.shiftwidth = 2
 o.softtabstop = -1 -- If negative, shiftwidth value is used
 o.list = true
 o.listchars = "trail:·,nbsp:◇,tab:→ ,extends:▸,precedes:◂"
